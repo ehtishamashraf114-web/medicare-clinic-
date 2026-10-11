@@ -1,0 +1,6 @@
+{
+  "name": "MediCare — Premium Clinic Appointment Booking",
+  "description": "World-class healthcare clinic appointment booking platform featuring expert physician scheduling, real-time slot selection, and verified patient care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
